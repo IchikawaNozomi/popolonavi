@@ -1,0 +1,30 @@
+.richmenu {
+  position: relative;
+  width: 2500px;
+  height: 1686px;
+}
+
+.bg {
+  position: absolute;
+  width: 2500px;
+  height: 1686px;
+  top: 0;
+  left: 0;
+}
+
+/* area 共通設定 */
+.area {
+  position: absolute;
+  display: block;
+  background: rgba(255, 0, 0, 0.2); /* 確認用、後で透明にしてOK */
+}
+
+/* --- 上段 --- */
+.area-1 { left: 0;    top: 0;    width: 833px; height: 843px; }
+.area-2 { left: 833px; top: 0;   width: 834px; height: 843px; }
+.area-3 { left: 1667px; top: 0;  width: 833px; height: 843px; }
+
+/* --- 下段 --- */
+.area-4 { left: 0;    top: 843px; width: 833px; height: 843px; }
+.area-5 { left: 833px; top: 843px; width: 834px; height: 843px; }
+.area-6 { left: 1667px; top: 843px; width: 833px; height: 843px; }
