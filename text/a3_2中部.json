@@ -1,0 +1,277 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "静岡中部の相談支援窓口一覧",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+
+          {
+            "type": "text",
+            "text": "静岡中部の相談支援窓口はこちら",
+            "margin": "20px",
+            "size": "lg",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡市葵区 暮らし・しごと相談支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "静岡市葵区城東町24-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)249-3210",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0542493210" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡市駿河区 暮らし・しごと相談支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "静岡市駿河区南八幡町3-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)286-9550",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0542869550" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡市清水区 暮らし・しごと相談支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "静岡市清水区宮代町1-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)371-0305",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0543710305" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "島田市社会福祉協議会",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "島田市大津通2番の1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0547)35-6244",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0547356244" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "焼津市地域福祉課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "焼津市本町2T目16番32号",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)631-5531",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0546315531" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "藤枝市 自立生活サポートセンター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "藤枝市岡出山1-11-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)643-3161",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0546433161" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "牧之原市 相談支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "牧之原市須々木140",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0548)52-3500",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0548523500" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "吉田町 生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "吉田町片岡795-1 吉田町健康福祉センター内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0548)34-1800",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0548341800" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "川根本町 生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "川根本町上岸90番地 川根本町福祉センター内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0547)59-2315",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0547592315" }
+              }
+            ]
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}

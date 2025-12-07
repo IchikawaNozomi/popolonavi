@@ -1,0 +1,340 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "東部地域の生活相談窓口一覧",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+
+          {
+            "type": "text",
+            "text": "東部地域の生活相談窓口はこちら",
+            "margin": "20px",
+            "size": "lg",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "沼津市自立相談支援センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "沼津市日の出町1-15 サンウェルぬまづ2階",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0120)86-1620",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0120861620" },
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "055-922-1620",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0559221620" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "三島市生活支援センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "三島市東本町1丁目2番6号 英光ビル1・1階",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(055)973-3450",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0559733450" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "富士宮市 福祉総合相談課",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "富士宮市弓沢町150番地",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0544)22-1561",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0544221561" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "富士宮市 くらし・しごと相談センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "富士宮市宮原7番地の1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0544)22-0094",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0544220094" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "富士市ユニバーサル就労支援センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "富士市本市場432-1 富士市フィランセ東館1階",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0545)64-6969",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0545646969" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "御殿場市地域福祉課",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "御殿場市萩原988-1 市民交流センターふじざくら内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0550)70-7577",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0550707577" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "御殿場市自立支援相談窓口（社会福祉課内）",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "御殿場市萩原483 社会福祉課内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(090)7857-2199",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:09078572199" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "裾野市生活自立支援センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "裾野市茶畑245番地の19",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0120)088-205",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0120088205" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "清水町生活支援・相談センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "清水町堂庭221-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(055)981-1665",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0559811665" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "長泉町生活支援・相談センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "長泉町下土狩967-2",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(055)988-3920",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0559883920" },
+                "wrap": true
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "小山町生活支援・相談センター",
+                "weight": "bold",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "小山町小山75-7 小山町健康福祉会館内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0550)76-9906",
+                "color": "#1E90FF",
+                "action": { "type": "uri", "uri": "tel:0550769906" },
+                "wrap": true
+              }
+            ]
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}
