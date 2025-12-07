@@ -1,0 +1,71 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "就職活動に関する相談先",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "就職活動に関する相談先",
+            "margin": "20px",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [],
+            "spacing": "xl",
+            "paddingAll": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "weight": "regular",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "基幹相談支援センター",
+                        "weight": "bold"
+                      }
+                    ],
+                    "size": "sm",
+                    "wrap": true
+                  },
+                  {
+                    "type": "text",
+                    "text": "障がいのある人や家族のための相談の中心みたいなところで、いろんな相談をまとめて受けとめてくれたり、必要な支援につないでくれるところだよ。",
+                    "size": "sm",
+                    "wrap": true
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "厚生労働省HP",
+                      "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/service/kikan.html"
+                    }
+                  }
+                ]
+              }
+            ],
+            "spacing": "xl",
+            "paddingAll": "10px"
+          }
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}
