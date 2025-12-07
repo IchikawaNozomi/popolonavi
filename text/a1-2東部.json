@@ -1,0 +1,318 @@
+{
+  "line": {
+    "contents": {
+      "body": {
+        "contents": [
+          {
+            "size": "lg",
+            "text": "静岡県東部の生活保護相談窓口はこちら",
+            "wrap": true,
+            "margin": "20px",
+            "type": "text"
+          },
+          {
+            "spacing": "xl",
+            "type": "box",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "wrap": true,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "color": "#000000",
+                        "text": "沼津市福祉事務所社会福祉課",
+                        "weight": "bold"
+                      }
+                    ],
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "text": "沼津市御幸町16-１"
+                  },
+                  {
+                    "gravity": "center",
+                    "action": {
+                      "type": "uri",
+                      "uri": "tel:0559344822",
+                      "label": "055-934-4822 に発信"
+                    },
+                    "style": "link",
+                    "type": "button",
+                    "height": "sm"
+                  }
+                ],
+                "type": "box"
+              }
+            ],
+            "layout": "horizontal"
+          },
+          {
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "text": "三島市福祉事務所福祉総務課保護係",
+                        "type": "span",
+                        "weight": "bold"
+                      }
+                    ],
+                    "wrap": true,
+                    "type": "text",
+                    "size": "sm"
+                  },
+                  {
+                    "text": "三島市北田町4番47号 ",
+                    "type": "text",
+                    "size": "sm"
+                  },
+                  {
+                    "style": "link",
+                    "type": "button",
+                    "height": "sm",
+                    "action": {
+                      "uri": "tel:0559832613",
+                      "label": "055-983-2613 に発信",
+                      "type": "uri"
+                    },
+                    "gravity": "center"
+                  }
+                ]
+              }
+            ],
+            "type": "box",
+            "spacing": "xl",
+            "paddingAll": "10px",
+            "layout": "horizontal"
+          },
+          {
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "layout": "vertical",
+                "type": "box",
+                "contents": [
+                  {
+                    "size": "sm",
+                    "wrap": true,
+                    "contents": [
+                      {
+                        "weight": "bold",
+                        "type": "span",
+                        "text": "富士宮市福祉事務所福祉総合相談課保護係"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "text": "富士宮市弓沢町150番地"
+                  },
+                  {
+                    "type": "button",
+                    "height": "sm",
+                    "action": {
+                      "uri": "tel:0544221144",
+                      "label": "0544-22-1144 に発信",
+                      "type": "uri"
+                    },
+                    "gravity": "center",
+                    "style": "link"
+                  }
+                ]
+              }
+            ],
+            "layout": "horizontal",
+            "type": "box",
+            "spacing": "xl"
+          },
+          {
+            "paddingAll": "10px",
+            "layout": "horizontal",
+            "type": "box",
+            "spacing": "xl",
+            "contents": [
+              {
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "wrap": true,
+                    "type": "text",
+                    "size": "sm",
+                    "contents": [
+                      {
+                        "weight": "bold",
+                        "type": "span",
+                        "text": "富士市福祉事務所生活支援課"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "富士市永田町1-100",
+                    "size": "sm",
+                    "type": "text"
+                  },
+                  {
+                    "gravity": "center",
+                    "height": "sm",
+                    "type": "button",
+                    "style": "link",
+                    "action": {
+                      "uri": "tel:0545552758",
+                      "label": "0545-55-2758 に発信",
+                      "type": "uri"
+                    }
+                  }
+                ],
+                "type": "box"
+              }
+            ]
+          },
+          {
+            "spacing": "xl",
+            "contents": [
+              {
+                "contents": [
+                  {
+                    "size": "sm",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "御殿場市福祉事務所社会福祉課",
+                        "weight": "bold"
+                      }
+                    ],
+                    "wrap": true,
+                    "type": "text"
+                  },
+                  {
+                    "size": "sm",
+                    "type": "text",
+                    "text": "御殿場市萩原483 "
+                  },
+                  {
+                    "gravity": "center",
+                    "type": "button",
+                    "height": "sm",
+                    "style": "link",
+                    "action": {
+                      "type": "uri",
+                      "uri": "tel:0550824239",
+                      "label": "0550-82-4239 に発信"
+                    }
+                  }
+                ],
+                "type": "box",
+                "layout": "vertical"
+              }
+            ],
+            "paddingAll": "10px",
+            "layout": "horizontal",
+            "type": "box"
+          },
+          {
+            "type": "box",
+            "spacing": "xl",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "layout": "vertical",
+                "type": "box",
+                "contents": [
+                  {
+                    "wrap": true,
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "weight": "bold",
+                        "text": "裾野市福祉事務所総合福祉課地域福祉係"
+                      }
+                    ],
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "text": "裾野市佐野1059"
+                  },
+                  {
+                    "action": {
+                      "uri": "tel:0559951819",
+                      "type": "uri",
+                      "label": "055-995-1819 に発信"
+                    },
+                    "height": "sm",
+                    "type": "button",
+                    "gravity": "center",
+                    "style": "link"
+                  }
+                ]
+              }
+            ],
+            "paddingAll": "10px"
+          },
+          {
+            "spacing": "xl",
+            "layout": "horizontal",
+            "type": "box",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "wrap": true,
+                    "size": "sm",
+                    "contents": [
+                      {
+                        "text": "静岡県東部健康福祉センター生活保護課",
+                        "type": "span",
+                        "weight": "bold"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "text": "沼津市高島本町1-3"
+                  },
+                  {
+                    "type": "button",
+                    "height": "sm",
+                    "action": {
+                      "type": "uri",
+                      "label": "055-920-2078 に発信",
+                      "uri": "tel:0559202078"
+                    },
+                    "gravity": "center",
+                    "style": "link"
+                  }
+                ],
+                "type": "box"
+              }
+            ]
+          }
+        ],
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "20px"
+      },
+      "type": "bubble"
+    },
+    "type": "flex",
+    "altText": "静岡県東部の生活保護相談窓口一覧"
+  }
+}
