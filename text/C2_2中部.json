@@ -1,0 +1,257 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "静岡中部の家に関する支援窓口一覧",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "20px",
+        "contents": [
+
+          {
+            "type": "text",
+            "text": "静岡中部の家に関する支援窓口はこちら",
+            "margin": "20px",
+            "size": "lg",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡市葵福祉事務所 生活支援課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "静岡市葵区追手町5-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)221-1585",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0542211585" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡市駿河福祉事務所 生活支援課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "静岡市駿河区南八幡町10-40",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)287-8656",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0542878656" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡市清水福祉事務所 生活支援課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "静岡市清水区旭町6-8",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)354-2107",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0543542107" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "島田市福祉事務所 福祉課 生活福祉係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "島田市中央町1-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0547)36-7158",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0547367158" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "焼津市福祉事務所 地域福祉課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "焼津市本町2-16-32",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)625-7655",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0546257655" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "藤枝市福祉事務所 福祉政策課 生活福祉係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "藤枝市岡出山1-11-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)643-3299",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0546433299" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "牧之原市福祉事務所 福祉こども相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "牧之原市静波991-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0548)23-0078",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0548230078" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡県中部健康福祉センター 福祉課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "藤枝市瀬戸新屋362-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)644-9274",
+                "size": "sm",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0546449274" }
+              }
+            ]
+          }
+
+        ]
+      }
+    }
+  }
+}

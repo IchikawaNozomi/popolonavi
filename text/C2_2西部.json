@@ -1,0 +1,389 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "静岡西部の家に関する支援窓口一覧",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "20px",
+        "contents": [
+
+          {
+            "type": "text",
+            "text": "静岡西部の家に関する支援窓口はこちら",
+            "margin": "20px",
+            "size": "lg",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市中央福祉事業所 生活福祉第一課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市中央区元城町103-2",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)457-2056",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0534572056" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市東行政センター（生活福祉第一課 東生活福祉G）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市中央区流通元町20-3",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)424-0173",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0534240173" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市西行政センター（生活福祉第一課 西生活福祉G）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市中央区雄踏1-31-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)597-1118",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0535971118" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市南行政センター（生活福祉第一課 南生活福祉G）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市中央区江之島町600-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)425-1460",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0534251460" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市北行政センター（社会福祉課 北地域福祉G）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市浜名区細江町気賀305",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)523-3111",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0535233111" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市浜名福祉事業所（社会福祉課 生活福祉G）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市浜名区貴布祢3000",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)585-1147",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0535851147" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市天竜福祉事業所（社会福祉課 地域福祉G）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市天竜区二俣町二俣481",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)922-0018",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0539220018" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "磐田市福祉事務所 福祉課 生活相談G",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "磐田市国府台57-7",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0538)37-4797",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0538374797" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "掛川市福祉事務所 福祉課 社会福祉係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "掛川市長谷1-1-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0537)21-1140",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0537211140" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "袋井市福祉事務所 しあわせ推進課 生活福祉係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "袋井市新屋1-1-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0538)44-3119",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0538443119" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "湖西市福祉事務所 地域福祉課 保護係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "湖西市吉美3268",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)576-1295",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0535761295" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "御前崎市福祉事務所 福祉課 保護係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "御前崎市池新田5585",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0537)85-1121",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0537851121" }
+              }
+            ]
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "paddingAll": "10px",
+            "contents": [
+              {
+                "type": "text",
+                "text": "菊川市福祉事務所 福祉課 生活福祉係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "菊川市半済1865",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0537)37-1251",
+                "color": "#1E90FF",
+                "wrap": true,
+                "action": { "type": "uri", "uri": "tel:0537371251" }
+              }
+            ]
+          }
+
+        ]
+      }
+    }
+  }
+}

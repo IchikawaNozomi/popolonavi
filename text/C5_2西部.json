@@ -1,0 +1,335 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "家賃が払えない人の相談窓口（西部地域）",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "家賃に困った時の相談窓口（西部地域）",
+            "margin": "20px",
+            "size": "lg",
+            "weight": "bold",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市生活自立相談支援センター つながり",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市中区元城町218-26 聖隷ビル1階",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)488-9000",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0534889000"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市生活自立相談支援センター つながり浜北",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市浜北区小林1272-1 浜松市ふれあい交流センター浜北",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)587-5005",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0535875005"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "磐田市くらしと仕事相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "磐田市国府台57番地7",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0538)32-8880",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0538328880"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "掛川市生活支援係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "掛川市掛川910-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0527)22-1294",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0527221294"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "袋井市生活自立相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "袋井市久能2515-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0538)43-3020",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0538433020"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "湖西市社会福祉協議会",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "湖西市古見1044番地",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(053)525-6667",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0535256667"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "御前崎市福祉課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "御前崎市池新田5585",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0537)85-1121",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0537851121"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "御前崎市自立相談窓口",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "御前崎市白羽5402-10",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0548)63-5294",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0548635294"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "菊川市生活困窮者自立相談支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "菊川市半済1865 菊川市総合保健福祉センタープラザけやき内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0537)35-3724",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0537353724"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "森町生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "森町森50-1 森町保健福祉センター内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0538)85-5769",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0538855769"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}

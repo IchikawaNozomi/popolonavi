@@ -1,0 +1,366 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "家賃が払えない人の相談窓口（伊豆地域）",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "家賃に困った時の相談窓口（伊豆地域）",
+            "margin": "20px",
+            "size": "lg",
+            "weight": "bold",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "熱海市社会福祉協議会",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "熱海市中央町1-26",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0557)86-6339",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0557866339"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "伊東市くらし相談センターこころ",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "伊東市大原二丁目1番1号",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0557)36-1190",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0557361190"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "下田市くらし支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "下田市四丁目1-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)22-3294",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558223294"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "伊豆市生活困窮者自立支援相談窓口",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "伊豆市小立野38-2",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)72-3202",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558723202"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "伊豆の国市くらし相談窓口（伊豆の国市福祉事務所内）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "伊豆の国市田京299-6",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)76-8012",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558768012"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "東伊豆町生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "東伊豆町白田306 東伊豆町保健福祉センター内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0557)22-1294",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0557221294"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "河津町生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "河津町田中226",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)34-1286",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558341286"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "南伊豆町生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "南伊豆町加納790 南伊豆町健康福祉センター内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)62-3156",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558623156"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "松崎町生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "松崎町宮内272-2 松崎町総合福祉センター内",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)42-2719",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558422719"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "西伊豆町生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "西伊豆町宇久須258-4",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)55-1313",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558551313"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "函南町生活支援・相談センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "函南町平井717-28",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(055)978-9288",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0559789288"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}
