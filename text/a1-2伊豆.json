@@ -1,0 +1,210 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "伊豆地域の生活保護相談窓口一覧",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "伊豆地域の生活保護相談窓口はこちら",
+            "margin": "20px",
+            "size": "lg",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "熱海市福祉事務所社会福祉課生活保護室",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "熱海市中央町1番1号",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0557)86-6331",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0557866331"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "伊東市社会福祉課保護係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "伊東市大原2-1-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0557)32-1537",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0557321537"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "下田市福祉事務所保護係",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "下田市東本郷1-5-18",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)22-2216",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558222216"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "伊豆市福祉事務所社会福祉課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "伊豆市小立野38-2",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)72-9862",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558729862"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "伊豆の国市福祉事務所社会福祉課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "伊豆の国市田京299-6",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)76-8006",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558768006"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡県賀茂健康福祉センター生活保護課",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "下田市中531-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(0558)24-2035",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0558242035"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}
