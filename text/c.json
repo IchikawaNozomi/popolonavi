@@ -1,0 +1,83 @@
+{
+  "line": {
+    "type": "imagemap",
+    "altText": "家について",
+    "baseSize": {
+      "height": 1368,
+      "width": 1040
+    },
+    "baseUrl": "https://civictech-lab.jp/popolo/ie",
+    "actions": [
+      {
+        "area": {
+          "width": 800,
+          "x": 120,
+          "height": 80,
+          "y": 588
+        },
+        "text": "生活保護の相談をしたい",
+        "type": "message"
+      },
+      {
+        "text": "家を探している",
+        "type": "message",
+        "area": {
+          "y": 688,
+          "height": 80,
+          "x": 120,
+          "width": 800
+        }
+      },
+      {
+        "area": {
+          "y": 788,
+          "height": 80,
+          "x": 120,
+          "width": 800
+        },
+        "type": "message",
+        "text": "ホームレス状態である"
+      },
+      {
+        "area": {
+          "x": 120,
+          "y": 888,
+          "height": 80,
+          "width": 800
+        },
+        "type": "message",
+        "text": "派遣先の寮を出なければいけない"
+      },
+      {
+        "type": "message",
+        "text": "家族から家を出されてしまった",
+        "area": {
+          "height": 80,
+          "width": 800,
+          "y": 988,
+          "x": 120
+        }
+      },
+      {
+        "area": {
+          "x": 120,
+          "height": 80,
+          "y": 1088,
+          "width": 800
+        },
+        "type": "message",
+        "text": "家賃を滞納して退去しないといけない"
+      },
+      {
+        "type": "message",
+        "text": "保証人が見つからない",
+        "area": {
+          "width": 800,
+          "x": 120,
+          "y": 1188,
+          "height": 80
+        }
+      }
+    ]
+  }
+}

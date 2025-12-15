@@ -1,0 +1,73 @@
+{
+  "line": {
+    "altText": "仕事について",
+    "actions": [
+      {
+        "type": "message",
+        "area": {
+          "height": 80,
+          "width": 800,
+          "y": 588,
+          "x": 120
+        },
+        "text": "生活保護の相談をしたい"
+      },
+      {
+        "text": "就職活動がうまくいかない",
+        "area": {
+          "width": 800,
+          "height": 80,
+          "x": 120,
+          "y": 688
+        },
+        "type": "message"
+      },
+      {
+        "type": "message",
+        "area": {
+          "width": 800,
+          "y": 788,
+          "x": 120,
+          "height": 80
+        },
+        "text": "長い間仕事をしていない"
+      },
+      {
+        "text": "派遣切りにあってしまった",
+        "area": {
+          "height": 80,
+          "x": 120,
+          "width": 800,
+          "y": 888
+        },
+        "type": "message"
+      },
+      {
+        "text": "自己都合で退職した",
+        "area": {
+          "x": 120,
+          "y": 988,
+          "height": 80,
+          "width": 800
+        },
+        "type": "message"
+      },
+      {
+        "text": "会社都合で退職を言い渡された",
+        "type": "message",
+        "area": {
+          "y": 1088,
+          "x": 120,
+          "height": 80,
+          "width": 800
+        }
+      }
+    ],
+    "type": "imagemap",
+    "baseUrl": "https://civictech-lab.jp/popolo/shigoto",
+    "baseSize": {
+      "height": 1268,
+      "width": 1040
+    }
+  }
+}

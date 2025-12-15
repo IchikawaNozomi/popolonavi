@@ -1,0 +1,33 @@
+{
+  "line": {
+    "actions": [
+      {
+        "area": {
+          "height": 80,
+          "width": 800,
+          "y": 588,
+          "x": 120
+        },
+        "type": "message",
+        "text": "死にたいくらいツライ"
+      },
+      {
+        "area": {
+          "x": 120,
+          "y": 688,
+          "height": 80,
+          "width": 800
+        },
+        "text": "パートナーからDVを受けている",
+        "type": "message"
+      }
+    ],
+    "type": "imagemap",
+    "baseSize": {
+      "height": 868,
+      "width": 1040
+    },
+    "altText": "心や体のこと",
+    "baseUrl": "https://civictech-lab.jp/popolo/kokoro"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "line": {
+    "actions": [
+      {
+        "type": "message",
+        "area": {
+          "height": 80,
+          "y": 588,
+          "x": 120,
+          "width": 800
+        },
+        "text": "食べ物がなくて困っている"
+      }
+    ],
+    "baseSize": {
+      "width": 1040,
+      "height": 768
+    },
+    "baseUrl": "https://civictech-lab.jp/popolo/tabemono",
+    "type": "imagemap",
+    "altText": "食べ物のこと"
+  }
+}

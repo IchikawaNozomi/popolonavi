@@ -1,0 +1,63 @@
+{
+  "line": {
+    "actions": [
+      {
+        "text": "生活保護の相談をしたい",
+        "type": "message",
+        "area": {
+          "height": 80,
+          "y": 588,
+          "width": 800,
+          "x": 120
+        }
+      },
+      {
+        "area": {
+          "height": 80,
+          "y": 688,
+          "x": 120,
+          "width": 800
+        },
+        "text": "食べ物を買うお金がない",
+        "type": "message"
+      },
+      {
+        "type": "message",
+        "area": {
+          "height": 80,
+          "x": 120,
+          "y": 788,
+          "width": 800
+        },
+        "text": "謝金・ローン等の支払いができない"
+      },
+      {
+        "area": {
+          "height": 80,
+          "width": 800,
+          "x": 120,
+          "y": 888
+        },
+        "text": "家賃の支払いができない",
+        "type": "message"
+      },
+      {
+        "type": "message",
+        "text": "税金・公共料金が支払えない",
+        "area": {
+          "y": 988,
+          "width": 800,
+          "x": 120,
+          "height": 80
+        }
+      }
+    ],
+    "baseSize": {
+      "height": 1168,
+      "width": 1040
+    },
+    "baseUrl": "https://civictech-lab.jp/popolo/okane",
+    "type": "imagemap",
+    "altText": "お金について"
+  }
+}
