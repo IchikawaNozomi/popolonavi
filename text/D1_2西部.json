@@ -1,0 +1,119 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "心と体の悩みの相談窓口（西部地域）",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "心や体の不調で悩んだときの相談窓口（西部地域）",
+            "margin": "20px",
+            "size": "lg",
+            "weight": "bold",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "西部健康福祉センター 西部保健所",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "磐田市見付3599-4",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "0538-37-2252",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0538372252"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "浜松市保健所",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "浜松市中区鴨江2-11-2",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "053-457-2213",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0534572213"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡いのちの電話（12時～21時）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "相談時間：12時～21時",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "054-272-4343",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0542724343"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}
+

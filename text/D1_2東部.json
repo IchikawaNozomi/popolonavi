@@ -1,0 +1,180 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "心と体の悩みの相談窓口（東部地域）",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "心や体の不調で悩んだときの相談窓口（東部地域）",
+            "margin": "20px",
+            "size": "lg",
+            "weight": "bold",
+            "wrap": true
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "熱海健康福祉センター 熱海保健所",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "熱海市水口町13-15",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "0557-82-9117",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0557829117"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "東部健康福祉センター 東部保健所",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "沼津市高島本町1-3",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "055-920-2087",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0559202087"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "御殿場健康福祉センター 御殿場保健所",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "御殿場市竈（かまど）1113",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "0550-82-1222",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0550821222"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "富士健康福祉センター 富士保健所",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "富士市本市場441-1",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "0545-65-2155",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0545652155"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "静岡いのちの電話（12時～21時）",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "相談時間：12時～21時",
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "054-272-4343",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0542724343"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}
