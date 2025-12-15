@@ -1,0 +1,158 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "パートナーからのDV相談窓口（中部地域）",
+    "contents": {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "パートナーからのDVで悩んだときの相談窓口（中部地域）",
+            "margin": "20px",
+            "size": "lg",
+            "weight": "bold",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "相談窓口の住所は表示していません。まずは電話で相談してください。",
+            "size": "sm",
+            "color": "#666666",
+            "wrap": true,
+            "margin": "md"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "女性相談支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)286-9217",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0542869217"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "配偶者暴力相談支援センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)286-9217",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0542869217"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "あざれあ女性相談",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)272-7879",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0542727879"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "あざれあ男性相談",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)272-7880",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0542727880"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          },
+
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "中部健康福祉センター",
+                "size": "sm",
+                "weight": "bold",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "(054)644-9217",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:0546449217"
+                },
+                "color": "#1E90FF",
+                "wrap": true
+              }
+            ],
+            "paddingAll": "10px"
+          }
+
+        ],
+        "paddingAll": "20px"
+      }
+    }
+  }
+}
