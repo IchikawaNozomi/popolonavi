@@ -325,37 +325,6 @@
               }
             ],
             "paddingAll": "10px"
-          },
-
-          {
-            "type": "box",
-            "layout": "vertical",
-            "contents": [
-              {
-                "type": "text",
-                "text": "函南町生活支援・相談センター",
-                "size": "sm",
-                "weight": "bold",
-                "wrap": true
-              },
-              {
-                "type": "text",
-                "text": "函南町平井717-28",
-                "size": "sm",
-                "wrap": true
-              },
-              {
-                "type": "text",
-                "text": "(055)978-9288",
-                "action": {
-                  "type": "uri",
-                  "uri": "tel:0559789288"
-                },
-                "color": "#1E90FF",
-                "wrap": true
-              }
-            ],
-            "paddingAll": "10px"
           }
 
         ],
