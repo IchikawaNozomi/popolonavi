@@ -1,0 +1,53 @@
+{
+  "line": {
+    "actions": [
+      {
+        "text": "西部",
+        "area": {
+          "y": 1034,
+          "height": 200,
+          "width": 450,
+          "x": 64
+        },
+        "type": "message"
+      },
+      {
+        "type": "message",
+        "text": "東部",
+        "area": {
+          "y": 1034,
+          "height": 200,
+          "width": 450,
+          "x": 546
+        }
+      },
+      {
+        "text": "中部",
+        "type": "message",
+        "area": {
+          "height": 200,
+          "width": 450,
+          "y": 1266,
+          "x": 64
+        }
+      },
+      {
+        "area": {
+          "y": 1266,
+          "x": 546,
+          "height": 200,
+          "width": 450
+        },
+        "type": "message",
+        "text": "伊豆"
+      }
+    ],
+    "altText": "静岡県内",
+    "type": "imagemap",
+    "baseSize": {
+      "height": 1500,
+      "width": 1040
+    },
+    "baseUrl": "https://civictech-lab.jp/popolo/shizuoka"
+  }
+}
